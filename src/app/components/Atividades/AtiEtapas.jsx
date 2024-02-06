@@ -44,7 +44,7 @@ export default function AtiEtapas() {
     <div className="container mx-auto max-w-7xl">
       <h1 className="font-bold text-2xl md:text-4xl sm:text-3xl text-slate-700 py-4 text-center">Localizando-se nas Etapas do Projeto</h1>
       <p className="text-lg mt-4 py-4 text-slate-600 p-4">
-      Chegamos nas Etapas IV e V da execução do Pequeno Projeto Didático Ativo (PPDA), onde os primeiros resultados dos projetos começam a surgir e precisamos avaliá-los. Relembre abaixo as Etapas de desenvolvimento do PPDA.
+      Chegamos na Etapa VI da execução do Pequeno Projeto Didático Ativo (PPDA). Aqui o projeto está finalizado e os resultados devem ser compartilhados e celebrados. Com o fim do projeto é importante também que sejam avaliadas as competências socioemocionais desenvolvidas durante o trajeto. Relembre abaixo as Etapas de desenvolvimento do PPDA.
       </p>
     </div>
     <motion.div className="container mx-auto flex flex-wrap justify-center text-center py-4"
