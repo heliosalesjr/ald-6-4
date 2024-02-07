@@ -93,7 +93,7 @@ const AtiSocioemocional = () => {
                 
             </div>
         </div>
-        <div className="max-w-5xl bg-slate-100 rounded-xl p-4 m-4">
+        <div className="max-w-5xl mx-auto bg-slate-100 rounded-xl p-4 m-4">
         <p className='text-slate-800 px-8 max-w-7xl mx-auto text-center py-8'>Para auxiliar os estudantes a identificar aprendizados pessoais e avaliar seu desempenho no desenvolvimento do projeto podem ser usadas Autoavaliações, <a href="https://docs.google.com/spreadsheets/d/16L9cRzGH9fUyWy2cQgI4moBGziHTVHjiwKk8KiJAMEY/edit?usp=sharing" target="blank" className="text-blue-800 underline hover:text-purple-900">veja aqui</a> {' '}alguns modelos. Pode-se também pedir que os alunos avaliem o desempenho de seus pares, através da Avaliação de colegas, <a href="https://docs.google.com/spreadsheets/d/16L9cRzGH9fUyWy2cQgI4moBGziHTVHjiwKk8KiJAMEY/edit?usp=sharing" target="blank" className="text-blue-800 underline hover:text-purple-900">acesse aqui</a> {' '} alguns modelos.</p>
         </div>
     </div>

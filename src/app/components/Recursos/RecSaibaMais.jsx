@@ -24,7 +24,7 @@ const RecSaibaMais = () => {
             <p className="mx-4 text-white py-2">
                 Vantagens e desvantagens do uso das redes sociais.
             </p>
-            <p className="mx-4 text-white py-2">
+            <p className="mx-4 text-white py-2 mb-4">
                 Usando redes sociais na educação.
             </p>
             

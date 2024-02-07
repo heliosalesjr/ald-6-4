@@ -16,13 +16,13 @@ const AtiCulminancia = () => {
             </div>
 
             
-            <div className="p-8 md:w-1/2 mb-4 md:mb-0">
-                <img
-                className="max-h-[600px] object-cover rounded-md"
-                src="/images/hi5.jpg"  // Substitua pelo caminho da sua imagem
-                alt="Descrição da Imagem"
-                />
-            </div>
+            <div className="md:w-1/2 mb-4 md:mb-0 py-4">
+                    <img
+                    src="/images/celebrate.jpg"
+                    alt="Imagem"
+                    className="w-full h-full object-cover rounded-md"
+                    />
+                </div>
         </div>
 
         <div className='max-w-md sm:max-w-3xl border-3 border-primary m-4 p-4 mx-auto rounded-xl'>
